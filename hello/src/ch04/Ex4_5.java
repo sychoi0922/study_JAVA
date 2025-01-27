@@ -2,7 +2,7 @@ package ch04;
 
 import java.util.Scanner; // Scanner클래스를 사용하기 위해 추가
 
-public class Ex4_3 {
+public class Ex4_5 {
 
 	public static void main(String[] args) {
 		System.out.print("숫자를 하나 입력하세요.>");
