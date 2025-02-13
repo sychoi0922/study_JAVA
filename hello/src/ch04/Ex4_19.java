@@ -1,7 +1,5 @@
 package ch04;
 
-import java.util.*;
-
 public class Ex4_19 {
 
 	public static void main(String[] args) {
