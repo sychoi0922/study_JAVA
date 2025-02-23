@@ -9,6 +9,7 @@ public class Ex6_1 {
 		t.channelDown();      // Tv인스턴스의 메서드 channelDown()을 호출한다. 
 		System.out.println("현재 채널은 " + t.channel + " 입니다."); 
 	} 
+	
 }
 
 class Tv { 

@@ -3,6 +3,7 @@ package ch06;
 class Data { int x; }
 
 public class Ex6_6 {
+	
 	public static void main(String[] args) {
 		Data d = new Data();
 		d.x = 10;
@@ -17,4 +18,5 @@ public class Ex6_6 {
 		x = 1000; // d.x의 값을 복사한 기본형 매개변수 x의 값을 1000으로 변경
 		System.out.println("change() : x = " + x); // 변수 값
 	}
+	
 }
